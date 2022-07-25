@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="118px" viewBox="0 0 120 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 25</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Module-/-Desktop-/-Value-/-01" transform="translate(-578.000000, -180.000000)">
+            <g id="Strength-Copy">
+                <g transform="translate(490.000000, 178.000000)">
+                    <g id="Group-25" transform="translate(88.000000, 0.000000)">
+                        <polygon id="Fill-1" fill="#FFCD00" points="113.795815 11.1323077 96.8942769 38.2596923 118.909662 16.2461538"></polygon>
+                        <g id="Group-24" transform="translate(0.000000, 1.530277)">
+                            <path d="M28.2932308,102.144923 C20.3344615,105.959077 11.244,106.684615 2.77938462,104.184923 L1.38369231,103.771385 L14.3806154,116.768308 L28.2932308,102.144923 Z" id="Fill-2" fill="#FFCD00"></path>
+                            <path d="M118.908923,103.772123 L105.893538,116.769046 L89.8615385,100.7352 L97.0246154,104.632431 C105.701538,109.340123 109.068923,104.787508 118.908923,103.772123" id="Fill-4" fill="#FFCD00"></path>
+                            <polygon id="Fill-6" fill="#FFCD00" points="105.442154 45.2593846 70.0513846 50.5578462 96.8944615 36.7301538"></polygon>
+                            <path d="M75.6638769,68.7609231 C75.9961846,69.0932308 75.3500308,103.302462 75.3500308,103.302462 L70.0515692,67.9116923 L75.6638769,68.7609231 Z" id="Fill-8" fill="#FFCD00"></path>
+                            <polygon id="Fill-10" fill="#FFCD00" points="50.2235077 50.5580308 14.8512 45.2595692 23.3804308 36.7303385"></polygon>
+                            <path d="M50.2235077,67.9116923 L44.9250462,103.302462 L36.3958154,94.7732308 C39.9404308,94.1824615 42.8388923,91.6532308 43.9096615,88.2378462 L50.2235077,67.9116923 Z" id="Fill-12" fill="#FFCD00"></path>
+                            <polygon id="Fill-14" fill="#FFCD00" points="7.64289231 8.45704615 23.3795077 36.7290462 1.38443077 14.7155077"></polygon>
+                            <polygon id="Stroke-16" stroke="#758592" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="36.3961846 94.7728615 44.9254154 103.302092 50.2238769 67.9113231 14.8515692 73.2097846 23.3808 81.7574769 1.38387692 103.772862 14.3808 116.769785"></polygon>
+                            <polygon id="Stroke-18" stroke="#758592" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="118.908923 103.772123 96.8953846 81.7585846 105.443077 73.2108923 75.6646154 68.7616615 70.0523077 67.9124308 75.3489231 103.3032 83.8781538 94.7721231 89.8615385 100.7352 105.893538 116.769046"></polygon>
+                            <polygon id="Stroke-20" stroke="#758592" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="96.8946462 36.7299692 118.908185 14.7164308 105.8928 1.70104615 83.8792615 23.7145846 75.3500308 15.1668923 70.0515692 50.5576615 105.442338 45.2592"></polygon>
+                            <polygon id="Stroke-22" stroke="#758592" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="23.3802462 36.7299692 14.8510154 45.2592 50.2233231 50.5576615 44.9248615 15.1668923 36.3956308 23.7145846 14.3802462 1.70104615 7.64363077 8.45796923 1.38332308 14.7164308"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

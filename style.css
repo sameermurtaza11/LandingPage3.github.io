@@ -1,0 +1,192 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Calibri';
+}
+
+header img {
+    margin-top: 1vw;
+    margin-left: 1vw;
+}
+
+.top {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('bg.jpg');
+    color: white;
+    height: 50vw;
+}
+
+.topR {
+    margin-left: 10vw;
+    display: inline-block;
+    margin-bottom: 6vw;
+}
+
+form input {
+    margin-bottom: 2vw;
+    width: 25vw;
+    height: 2.5vw;
+}
+
+.topL {
+    margin-left: 10vw;
+    display: inline-block;
+    transform: translateY(-198%);
+}
+
+.topL h3 {
+    font-weight: 100;
+}
+
+button {
+    width: 12vw;
+    height: 3.5vw;
+    font-size: large;
+    background-color: darkorange;
+    border: 0ch;
+}
+
+form button {
+    margin-left: 6vw;
+}
+
+.middleL {
+    display: inline-block;
+}
+
+.middleL img {
+    width: 48vw;
+    height: 33vw;
+}
+
+.middle {
+    margin-top: 10vw;
+}
+
+.middleR p {
+    width: 38vw;
+    font-size: 1.5vw;
+    margin-bottom: 9vw;
+}
+
+.middleR h1 {
+    font-size: 3.5vw;
+    font-weight: 900;
+    margin-bottom: 2vw;
+}
+
+.middle button {
+    transform: translateY(-40%);
+}
+
+.middleR {
+    display: inline-block;
+    margin-left: 5vw;
+}
+
+.bodyT h1 {
+    font-size: 3.5vw;
+    text-align: center;
+    margin-top: 10vw;
+}
+
+.bodyT p {
+    font-size: 1.5vw;
+    margin-left: 18vw;
+    margin-right: 18vw;
+}
+
+.bodyT img {
+    padding-left: 15vw;
+}
+
+.bodyB {
+    margin-top: 10vw;
+}
+
+.bodyBR {
+    margin-left: 10vw;
+}
+
+.bodyB img {
+    width: 45vw;
+}
+
+.bodyBL {
+    display: inline-block;
+    margin-left: 4vw;
+}
+
+.bodyBL h1 {
+    font-size: 3.5vw;
+    margin-bottom: 15vw;
+}
+
+.bodyBL p {
+    font-size: 1.5vw;
+    transform: translateY(-120%);
+    width: 38vw;
+}
+
+.bodyB button {
+    transform: translateY(-50%);
+    margin-bottom: 8vw;
+}
+
+.bottom {
+    margin-top: 4vw;
+    margin-bottom: 4vw;
+}
+
+.bottom h3,
+.form2,
+.follow {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 8vw;
+}
+
+.footerT {
+    background-color: rgb(2, 7, 60);
+    color: white;
+    border-bottom: 0.2vw solid white;
+}
+
+.company,
+.class,
+.findus,
+.opportunity,
+.support {
+    vertical-align: top;
+    display: inline-block;
+    font-size: xx-large;
+    margin-right: 3vw;
+    margin-left: 4vw;
+}
+
+.company button,
+.class button,
+.findus button,
+.opportunity button,
+.support button {
+    background-color: transparent;
+    color: white;
+    font-size: 1.5vw;
+    width: 9.5vw;
+}
+
+.footerB {
+    background-color: rgb(2, 7, 60);
+
+}
+
+.footerB button,
+.footerB txt {
+    background-color: transparent;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    color: white;
+    width: 15vw;
+    margin-left: 5vw;
+}
